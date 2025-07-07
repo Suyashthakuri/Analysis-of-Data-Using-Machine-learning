@@ -43,4 +43,3 @@ Build a supervised machine learning model to predict `price` (a continuous targe
 ### 👥 Contributors
 
 - Suyash Khand Thakuri  
-- 
